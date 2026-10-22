@@ -51,19 +51,19 @@ index=main "4625" earliest=-15m
 
 ### Windows Failed Login Event
 
-[Windows Event ID 4625](Windows Failed Login Event)
+[Windows Event ID 4625](screenshots/02_Windows_Event_4625.png)
 
 ### Failed Login Events in Splunk
 
-[Splunk Failed Login Events](Failed Login Events in Splunk)
+[Splunk Failed Login Events](screenshots/13_Splunk_Fresh_4625.png)
 
 ### Correlation Alert Triggered
 
-[Splunk Correlation Alert](Correlation Alert Triggered)
+[Splunk Correlation Alert](screenshots/24_Splunk_Correlation_Alert_Triggered.png)
 
 ### SOC Monitoring Dashboard
 
-[SOC Dashboard](SOC Monitoring Dashboard)
+[SOC Dashboard](screenshots/Final_SOC_Dashboard_Screenshot.png)
 
 ## Results
 
