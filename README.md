@@ -37,6 +37,12 @@ index=main "4625" earliest=-15m
 | where failed_logins >= 3
 
 ```
+### Detection Query File
+
+You can also view the standalone Splunk query here:
+
+[View Failed Login Detection Query](queries/failed_login_detection.spl)
+
 
 ## Implementation
 
