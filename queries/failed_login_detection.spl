@@ -1,0 +1,3 @@
+index=main "4625" earliest=-15m
+| stats count as failed_logins by host
+| where failed_logins >= 3
